@@ -1,0 +1,21 @@
+Requisitos:
+
+• Java 8;
+• Spring boot;
+• Cloud AWS;
+• Jenkins;
+• SQL (MySQL, SQL Server, Oracle);
+• Swagger;
+• Mockito;
+• Git / GIT Bash;
+• SOAP / REST;
+• Hibernate JPA;
+• Active MQ;
+• C#.NET
+• Testes unitários automatizados / JUnit;
+• Bancos de dados relacionais (Oracle, PostgresSQL, SQLServer, MySQL, etc.);
+• Bancos de dados não relacionais (MongoDB, DynamoDB, Elasticsearch, Redis, etc.);
+• Sistemas de controle de versão (GIT, SVN, CVS, etc.);
+• Ferramentas de build (Gradle, Maven);
+• Sistemas distribuídos;
+• Arquitetura de microserviços.
